@@ -1,14 +1,43 @@
 body {
-      margin: 0;
-      padding: 0;
-      background: #777;
-    }
+margin: 0;
+padding: 0;
+background-color: #4aaaa5;
+}
 
 
-#aboutme { 
+#container{
+  margin: 0 auto;
+  width: 960px;
+  font-style: Arial Helvetica sans-serif;
+  font-size: 18px;
 
-  background: #ebebeb;
-      padding: 10px;
-      margin-bottom: 20px;
-    }
 
+
+}
+
+
+
+header {
+
+  background-color: #4aaaa5;
+  border: #cccccc solid 3px;
+  float: left;
+  color: #ffffff;
+  font-size: 45px;
+
+}
+
+#nav{
+  background-color: #4aaaa5;
+  border: #cccccc solid 3px;
+  float: right;
+  color: #ffffff;
+  font-size: 45px;
+
+}
+
+
+ #aboutme{
+
+  
+ }
